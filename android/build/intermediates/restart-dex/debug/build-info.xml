@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="10948936957946"
+    token="-6675513607035256515"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="161" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="230" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/outputs/apk/android-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="10948936957946"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/outputs/apk/android-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

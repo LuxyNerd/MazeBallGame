@@ -1,0 +1,7 @@
+#Wed Feb 08 13:15:37 CET 2017
+base.0=/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d8642041253596cbda5004921788437409a7a9c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34c5fb65a92ee9a217a907c2aab4bba8434c695e/classes.dex
+base.1=/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34c5fb65a92ee9a217a907c2aab4bba8434c695e
+file.0=/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d8642041253596cbda5004921788437409a7a9c/classes.dex

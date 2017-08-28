@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdf02914895b532d76babed0cbd5f0da3baac4e3">
+        <dex dex="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34c5fb65a92ee9a217a907c2aab4bba8434c695e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emine/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.5_e2f3354450bfa94b19a2ce80eda56999c2906488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emine/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.5_2e7a6580c52f1752e9f5ba1b2312fd2072bf1ca4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emine/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.5_39b94c001957886ddbe368651c7645905b6cfc55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emine/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.5/71eba1332b3c2436d3b8e24296a0feb1c01d9e67/gdx-freetype-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71eba1332b3c2436d3b8e24296a0feb1c01d9e67">
+        <dex dex="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-freetype-1.9.5_a198e77df1c1f576c9d6a0530f2d068141b9bd40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f03174dc407ea3126d7a3ecda9b752ded8995ac6">
+        <dex dex="/home/emine/WorkspaceAndorid/MyMazeBallGame/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d8642041253596cbda5004921788437409a7a9c/classes.dex" />
+    </item>
+
+</items>
