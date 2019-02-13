@@ -13,14 +13,14 @@ Verloren:
 Fällt man in ein Loch, so startet die Kugel wieder im Startzustand.
 Gewonnen:
 Erreicht man das Portal/Ziel, so hat man das Level erfolgreich abgeschlossen. Die ersten
-10 besten Highscores (Bestzeit) werden anschließend in der Highscore liste aufgelistet.
+10 besten Highscores (Bestzeit) werden anschließend in der Highscore-Liste aufgelistet.
 
 Für den Entwickler:
-Als Entwicklungs-Gerät wurde an Nexus 4 verwendet.
-Der Emulator eignet sich eher schnelcht zum Testen und Spielen.
-Entwicklungs Umgebung: Android Studio IDE
+Als Entwicklungs-Gerät wurde ein Nexus 4 verwendet.
+Der Emulator eignet sich (bekanntlicherweise) schlecht zum umfangreichen Testen und Spielen.
+Entwicklungsumgebung: Android Studio IDE
 Framework: LibGDX.
 Die Startklasse: org.emine.turcan.MazeBall
 Im Assert-Ordner befinden sich alle Image- und Sound-Dateien. Im Button Ordner
 befinden sich die Dateien für die Buttons. Im Font Ordner befindet sich die verwendete
-True Type Font für die App.
+True Type Fonts für die App.
