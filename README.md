@@ -4,7 +4,7 @@ maze game for android
 Für den User:
 Bedienanleitung
 Spielen:
-Die App starten. Um mit dem Spielen beginnen zu können, muss ein Username eingeben
+Die App starten. Um mit dem Spielen beginnen zu können, muss ein Username eingegeben
 und mit „OK“ bestätigt werden.
 Leveln:
 Im Hauptmenü ist zu Beginn nur das erste Level spielbar. Die anderen aktivieren sich nach
@@ -24,3 +24,4 @@ Die Startklasse: org.emine.turcan.MazeBall
 Im Assert-Ordner befinden sich alle Image- und Sound-Dateien. Im Button Ordner
 befinden sich die Dateien für die Buttons. Im Font Ordner befindet sich die verwendete
 True Type Fonts für die App.
+Die App ist (nur) client-basiert. 
